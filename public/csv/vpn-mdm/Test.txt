@@ -1,0 +1,3 @@
+If you won\'t even give me an indication of what\'s causing the error it is very difficult to resolve it at the client end. I cannot believe that it is just an IP change which causes it so there must be errors still showing after the IP is unblocked.
+
+The client wan\'t pay the additional huge cost of moving the mail to VPS, mainly caused by the backup requirement, for just 1 of the many email accounts on the domain.
